@@ -1,0 +1,17 @@
+framework (pre defined code) (Friend House)
+library (changing authority) (My House)
+
+Frame Works
+bootstrap ,material ui , telwind
+
+Bootstrap framework he. Bootstrap 2013. Mobile responsive.
+
+bootstrap > document > getting started > CDN via js Deliver
+> Copy Link > Paste Link, script 2 tag copy > paste under body
+tag, 
+
+classes
+
+w-50  		(width)
+accordion 	(drop down like
+)

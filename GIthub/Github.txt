@@ -1,0 +1,22 @@
+git config --global user.name "mahboobahmad8595"
+git config --global user.email "mahboobahamd8595@gmail.com"
+git add .
+git commit -m "Hosting" 
+git git remote add origin https
+git push -u origin master
+
+git status 
+
+surge (node js must)
+npm install --global surge
+
+surge
+user.name
+user.gmail
+directory
+domain name
+
+versal , github, netlify , surge.
+
+
+
