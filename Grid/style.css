@@ -155,4 +155,42 @@
     grid-column-start: 2;
     grid-row-start: 4;
 } */
-        
+/*  
+.container {
+    width: 50%;
+    margin: 50px auto 0px;
+    border: 1px solid #000;
+    display: grid;
+    grid-template-rows: 50px repeat(4 , 100px);
+    grid-template-columns: 20% 80%;
+}
+
+.container *{
+    border: 1px solid #000;
+}
+
+.box1 {
+    grid-area: 1/1/2/3;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+} */
+/* 
+.container {
+    width: 90%;
+    height: 100vh;
+    margin: 0px auto;
+    border: 1px solid #000;
+    display: grid;
+    grid-template-rows: 20% 80%;
+    grid-template-columns: 30% 70%;
+}
+
+.container * {
+    border: 1px solid #000;
+}
+
+.box1 {
+    grid-area: 1/1/2/3;
+} */
+
