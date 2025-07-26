@@ -1,0 +1,35 @@
+/*! 1 */
+/*
+.container {
+    border: 1px solid #000;
+}
+
+.container .row {
+    border: 1px solid red;
+}
+
+.container .col {
+    border: 1px solid green;
+}
+*/
+/*! 2 */
+/* 
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.container {
+    border: 1px solid #000;
+} */
+
+/*! 3 */
+
+.container {
+    border: 1px solid #000;
+}
+
+.container *{
+    border: 1px solid #000;
+}

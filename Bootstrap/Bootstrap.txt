@@ -1,3 +1,52 @@
+container-fluid		 (width: 100%)
+container: width: (Responsive 96%-93%) , (container-align: center) (padding-right,left=15px)
+row: row
+col: Equal Width
+col-xl
+col-lg
+col-md
+col-sm
+row-cols-2
+w-100: (Break)
+
+
+
+
+
+
+
+
+
+
+
+
+
+btn
+btn btn-outline-secondary
+btn-group
+btn-check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 framework (pre defined code) (Friend House)
 library (changing authority) (My House)
 
