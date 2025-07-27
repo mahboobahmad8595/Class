@@ -1,14 +1,12 @@
 container-fluid		 (width: 100%)
 container: width: (Responsive 96%-93%) , (container-align: center) (padding-right,left=15px)
 row: row
-col: Equal Width
-col-xl
-col-lg
-col-md
-col-sm
 row-cols-2
+col: Equal Width
+xl , lg , md , sm
+offset-1
+order-first , order-last
 w-100: (Break)
-
 
 
 

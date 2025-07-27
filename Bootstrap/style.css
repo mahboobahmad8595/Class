@@ -26,10 +26,84 @@ ul {
 
 /*! 3 */
 
-.container {
+/* .container {
+    border: 1px solid #000;
+}
+
+.container *{
+    border: 1px solid #000;
+} */
+
+/*! 4 */
+
+/* .container {
     border: 1px solid #000;
 }
 
 .container *{
     border: 1px solid #000;
 }
+
+.container .row ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+} */
+
+/*! 5 */
+
+/* .container {
+    border: 5px solid #000;
+}
+
+
+
+.pink {
+    background-color: pink;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color: blue;
+} */
+
+/*! 6 */
+/* 
+.container {
+    border: 5px solid #000;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.row {
+    border: 3px solid red;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: yellowgreen;
+} */
+
+/*! 7 */
+/* 
+.contaianer {
+    border: 1px solid #000;
+}
+
+.container * {
+    border: 1px solid #000;
+} */
+
+/*! 8 */
