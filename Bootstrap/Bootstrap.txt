@@ -8,10 +8,16 @@ offset-1
 order-first , order-last
 order-1 , order-2 
 w-100: (Break)
-
-
-
-
+m-0 (Margin All)
+mt-0 (Top)
+mb-0 (Bottom)
+ml-0 (Left)
+mr-0 (Right)
+my-0 (Top + Bottom)
+mx-0 (Left + Right)
+ms (Start)
+me (End)
+m-auto
 
 
 
